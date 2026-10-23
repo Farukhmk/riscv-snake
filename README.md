@@ -75,3 +75,5 @@ The processor has also been tested using a C regression suite covering:
 - Vivado
 - Xilinx Artix-7 FPGA
 
+[▶️ Watch Demo](./demo/snake-demo.mp4)
+
