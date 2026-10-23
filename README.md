@@ -75,5 +75,6 @@ The processor has also been tested using a C regression suite covering:
 - Vivado
 - Xilinx Artix-7 FPGA
 
-[▶️ Watch Demo](./demo/snake-demo.mp4)
+## 🎥 Demo
 
+[▶️ Watch Snake running on the RV32I processor](https://github.com/Farukhmk/riscv-snake/blob/main/demo/10-32-50.mp4)
